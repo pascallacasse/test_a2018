@@ -19,7 +19,7 @@ void AverageTest::tearDown()
 {
   // Nothing to destroy here
 }
-
+//random comment
 void AverageTest::test1()
 {
   int values[]={};
