@@ -1,0 +1,5 @@
+- fix the commented tests
+- add new tests
+- improve code quality
+- refactor badly structured code
+- use design patterns?
